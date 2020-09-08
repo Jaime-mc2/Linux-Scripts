@@ -46,3 +46,6 @@ checkprogram git git
 
 # gcc, g++, make, etc...
 checkprogram gcc build-essential
+
+# ifconfig
+checkprogram ifconfig net-tools
